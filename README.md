@@ -24,7 +24,6 @@ You can build an image for this project on your local machine by following the b
 ## Resources
 
 * Slide Deck for the session can be found [here](https://docs.google.com/presentation/d/1q6srjq40hK8p3wLDsI_6SlKJda3lzxWs-HRdsXYn5V8/edit?usp=sharing)
-* Docker image created during the session can be found [here](https://hub.docker.com/u/akash136)
 * Get started with Docker - [Official Documentation](https://docs.docker.com/get-started/overview/)
 * Docker Compose - [Official Documentation](https://docs.docker.com/compose/)
 * [Docker Hub](https://hub.docker.com/)
