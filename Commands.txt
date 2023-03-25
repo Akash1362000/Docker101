@@ -1,0 +1,12 @@
+# Commands executed during the practical session
+
+docker --version
+docker images
+docker container ls -a
+docker run -it busybox
+docker exec -it <container_name> <command_to_execute>
+docker ps
+docker image --help
+docker compose up -d
+docker compose down
+docker compose ps
